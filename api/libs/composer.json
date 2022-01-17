@@ -1,0 +1,6 @@
+{
+    "require": {
+        "carloswgama/php-pagseguro": "3.*",
+        "mercadopago/dx-php": "2.2.1"
+    }
+}
